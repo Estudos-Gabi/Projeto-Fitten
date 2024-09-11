@@ -16,11 +16,3 @@ Quero realizar esse projeto não apenas para aprimorar meu aprendizado em .NET, 
 
 </p>
 
-<h3> Prazo: </h3>
-
-<p>
-
-  Planejo concluir esse projeto até o final do mês junto com o bootcamp.
-  
-  Prazo final: 31/08/2024 às 00:00.
-</p>
